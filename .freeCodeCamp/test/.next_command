@@ -19,3 +19,7 @@ git commit -m "Initial commit"
 git push
 git status
 git add .
+git status
+git add .
+git commit -m "refactor:update"
+git push
