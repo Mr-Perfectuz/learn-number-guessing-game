@@ -63,3 +63,4 @@ pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
 git pull origin main
 git push origin main
 git push --force origin main
+git push --force origin main
