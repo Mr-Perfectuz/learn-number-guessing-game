@@ -183,3 +183,6 @@ git status
 git commit -m "fix: update"
 git push
 git add .
+git add .
+git commit -m "fix: update"
+git commit -m "fix: update"
