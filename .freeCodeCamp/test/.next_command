@@ -182,3 +182,4 @@ git add .
 git status
 git commit -m "fix: update"
 git push
+git add .
