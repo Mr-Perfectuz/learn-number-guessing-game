@@ -110,3 +110,26 @@ git commit -m "feat: update"
 git add .
 git commit -m "feat: update"
 git add .
+git commit -m "feat: update"
+git push origin main
+git push origin main
+ㅣㄴ
+ls --color=auto
+cd number_guessing_game/
+ls --color=auto
+git status
+git git add .
+git status
+git add .
+git status
+git commit -m "feat: update"
+git push origin main
+git push
+git push main
+git push --set-upstream main master
+git push origin main
+git push main
+git push
+git push --set-upstream main master
+git push --force origin main
+git push --force origin main
