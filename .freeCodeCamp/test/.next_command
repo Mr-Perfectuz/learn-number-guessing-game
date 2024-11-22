@@ -136,3 +136,5 @@ git push --force origin main
 git status
 git add .
 git add .
+cd ..
+git add .
