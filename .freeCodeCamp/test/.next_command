@@ -150,3 +150,28 @@ git status
 git add .
 git status
 git add .
+git status
+git push
+git status
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd workspace/
+ls --color=auto
+cd project/
+ls --color=auto
+git status
+git commit -m "feat: update "
+git push
+ls --color=auto
+cd number_guessing_game/
+ls --color=auto
+git push
+git status
+git commit -m"feat: update"
+git push
+git push origin main
+git push --force origin main
+git push --force origin main
+git push --force
