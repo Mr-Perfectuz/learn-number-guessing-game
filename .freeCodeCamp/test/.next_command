@@ -139,3 +139,14 @@ git add .
 cd ..
 git add .
 git add .
+git commit -m "feat: update"
+git push
+ls --color=auto
+git status
+git commit -m "feat: update"
+git push
+git add .
+git status
+git add .
+git status
+git add .
