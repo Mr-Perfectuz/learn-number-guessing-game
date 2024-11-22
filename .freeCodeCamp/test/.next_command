@@ -56,3 +56,10 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git push
 git push --set-upstream origin main
+git push
+git push --set-upstream origin main
+git log --oneline
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+git pull origin main
+git push origin main
+git push --force origin main
