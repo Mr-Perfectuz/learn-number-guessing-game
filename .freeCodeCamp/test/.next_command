@@ -175,3 +175,10 @@ git push origin main
 git push --force origin main
 git push --force origin main
 git push --force
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "fix: update"
+git push
