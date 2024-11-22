@@ -95,3 +95,10 @@ ls --color=auto
 cd project/
 git log --oneline
 git add .
+git commit -m "feat: Add initial script functionality"
+git log --oneline
+git rebase -i HEAD~5
+git push origin main
+git status
+git add
+git add .
