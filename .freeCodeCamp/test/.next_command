@@ -133,3 +133,5 @@ git push
 git push --set-upstream main master
 git push --force origin main
 git push --force origin main
+git status
+git add .
