@@ -1,0 +1,19 @@
+ls --color=auto
+mkdir number_guessing_game
+git init
+touch number_guess.sh
+CREATE DATABASE number_guess
+psql --username=freecodecamp --dbname=postgres
+clear
+ls --color=auto
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+git status
+git add .
+git status
+git commit -m "Initial commit"
+git push
