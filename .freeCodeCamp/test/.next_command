@@ -186,3 +186,13 @@ git add .
 git add .
 git commit -m "fix: update"
 git commit -m "fix: update"
+clear
+git branch
+git checkout main
+git branch -m main
+git branch
+git push -u origin main
+git add .
+git commit -m "fix: update"
+git push - origin main
+git push
